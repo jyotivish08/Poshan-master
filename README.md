@@ -1,6 +1,6 @@
 # Poshan Abhiyaan
 A web application on the Poshan Abhiyaan program (a scheme initiated by the ministry of women and Child Development, India) for the health workers for monitoring nutrition and daily vaccine of women and children in their area.
-The main aim of this project is to keep records of women & children and allow the worker to send them messages if their vaccines are pending or upcoming and there are many other features.
+The main aim of this project is to keep records of women & children and allow the worker to send them messages/reminder if their vaccines are pending or upcoming and there are many other features.
 
 I have build this website in mar 2022 as my college project.
 
